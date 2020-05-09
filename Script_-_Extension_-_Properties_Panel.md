@@ -72,7 +72,7 @@ For any custom property two things are must, type and label.
 
 Type will decide the data type of the property. Like string or integer.
 
-Label helps the user to understand what the property will do. So give a meaningful name here.
+Label helps the user to understand the purpose of the property. So give a meaningful name here.
 
 
     items: {
